@@ -30,7 +30,7 @@ This project analyzes the performance of **host countries** in the Olympic Games
 
 
 ## 📷 Visualizations
-![Database Design](RelationalSchema.png)
+![Database Design](RelationalDiagram.png)
 
 ![Olympic Image 1](olympic1.png)
 ![Olympic Image 2](olympic2.png)
