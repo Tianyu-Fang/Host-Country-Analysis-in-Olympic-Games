@@ -28,13 +28,25 @@ This project analyzes the performance of **host countries** in the Olympic Games
 - **Jupyter Notebook** (Exploratory Analysis)
 - **Kaggle Dataset** (Source Data)
 
+
 ## 📷 Visualizations
-Here are some of the key charts and insights from our analysis:
+![Database Design](RelationalSchema.png)
 
-![Medal Trends](images/airbnb1.png)
-![Host Country Performance](images/airbnb2.png)
-
-_(Make sure to include the actual images in the `images/` folder)_
+![Olympic Image 1](olympic1.png)
+![Olympic Image 2](olympic2.png)
+![Olympic Image 3](olympic3.png)
+![Olympic Image 4](olympic4.png)
+![Olympic Image 5](olympic5.png)
+![Olympic Image 6](olympic6.png)
+![Olympic Image 7](olympic7.png)
+![Olympic Image 8](olympic8.png)
+![Olympic Image 9](olympic9.png)
+![Olympic Image 10](olympic10.png)
+![Olympic Image 11](olympic11.png)
+![Olympic Image 12](olympic12.png)
+![Olympic Image 13](olympic13.png)
+![Olympic Image 14](olympic14.png)
+![Olympic Image 15](olympic15.png)
 
 ## 📥 How to Run
 1. Clone the repository:
